@@ -23,7 +23,7 @@ Netlify will give you a free `*.netlify.app` address.
 - Replace `info@rcavertexglobal.com` if you use a different business email.
 - Replace `YOUR-DOMAIN.example` in `robots.txt` and `sitemap.xml` after you have a domain.
 - If you already own a domain such as `rcavertexglobal.com`, connect it later in Netlify.
-- Replace the text favicon/logo with your official logo if desired.
+- The official RCA Vertex Global logo is used in the header, footer, About section and browser favicon.
 
 ## Website sections
 
